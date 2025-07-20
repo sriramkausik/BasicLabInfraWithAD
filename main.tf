@@ -11,8 +11,8 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA5EBBOPTNFMFH7QDF"
-  secret_key = "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"
+  access_key = "AKIAZI2LCDSSS2Z3IX6T"
+  secret_key = "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"
 }
 
 resource "aws_vpc" "VPCFROMTF" {
